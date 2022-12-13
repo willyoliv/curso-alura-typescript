@@ -43,7 +43,14 @@ npm install
 # ou npm i
 ```
 
-##### Para executar o projeto rode o seguinte comando
+##### Em seguinda baixa as dependências do servidor interno
+```bash
+cd servidor-api
+npm install
+# ou npm i
+```
+
+##### Para executar o projeto rode o seguinte comando dentro do diretório raiz e dentro de `servidor-api`
 ```bash
 npm run start
 # ou yarn start
