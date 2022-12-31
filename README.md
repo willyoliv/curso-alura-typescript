@@ -11,7 +11,7 @@
 </p>
 
 <h4 align="center">
-	 Status: Em andamento
+	 Status: Finalizado
 </h4>
  
 ### Sobre o projeto💻
